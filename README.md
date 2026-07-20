@@ -26,6 +26,10 @@ These articles cover a wide range of topics from Docker and Kubernetes to cloud 
 - [How to Build Agents with Vertex AI Builder](https://www.codecademy.com/article/how-to-build-agents-with-vertex-ai-builder)
 - [REST API in Flutter: A Beginner's Guide to Fetching Data](https://www.codecademy.com/article/rest-api-in-flutter)
 - [Anthropic Claude Opus 4.6: Is the Upgrade Worth It?](https://www.codecademy.com/article/anthropic-claude-opus-4-6)
+- [Kubernetes Networking and Orchestration: Complete Guide](https://www.codecademy.com/article/kubernetes-networking-and-orchestration-complete-guide)
+- [GPT-5.1 Codex Tutorial: Build Apps in VS Code](https://www.codecademy.com/article/gpt-5-1-codex-tutorial-build-apps-in-vs-code)
+- [Godot Game Engine: A Beginner's Guide](https://www.codecademy.com/article/godot-game-engine-a-beginners-guide)
+- [What are Ufuncs in NumPy](https://www.codecademy.com/article/what-are-ufuncs-in-numpy)
 
 ## Courses
 I've also contributed to the following courses:
