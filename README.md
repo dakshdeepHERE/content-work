@@ -1,4 +1,4 @@
-# This file includes articles, courses, and videos I've created for Codecademy
+# This Readme file includes public articles, courses, and videos I've created for Codecademy
 These articles cover a wide range of topics from Docker and Kubernetes to cloud security, Flutter development, and the latest AI models and tools.
 
 [Author page](https://www.codecademy.com/pages/daksha-deep)
