@@ -3,6 +3,21 @@ These articles cover a wide range of topics from Docker and Kubernetes to cloud 
 
 [Author page](https://www.codecademy.com/pages/daksha-deep)
 
+## Courses
+I've also contributed to the following courses:
+- [Learn How to Use AI for Marketing](https://www.codecademy.com/enrolled/courses/prompt-engineering-for-marketing)
+- [Learn How to Use AI for SQL](https://www.codecademy.com/enrolled/courses/learn-ai-for-sql)
+- [Learn Prompt Engineering](https://www.codecademy.com/enrolled/courses/learn-prompt-engineering)
+- [Learn Intermediate C++](https://www.codecademy.com/learn/learn-intermediate-c-plus-plus)
+- [Learn Advanced C++](https://www.codecademy.com/enrolled/courses/learn-advanced-c-plus-plus)
+- [AI-Assisted Front-End Development](https://www.codecademy.com/learn/paths/ai-assisted-front-end-development)
+
+## Videos
+I've also created the following YouTube tutorials:
+- [Beginner Python Project Tutorial: Building Control Flow](https://www.youtube.com/watch?v=IClc_qrFYVE)
+- [How to Use Flutter Widgets (A Beginner's Guide)](https://www.youtube.com/watch?v=xAZs0QDRQBQ)
+- [How to Use ChatGPT Agents | A Complete Guide with Examples](https://www.youtube.com/watch?v=khJT7_Qd_ks&t=159s)
+
 ## Articles
 - [Setting up Docker](https://www.codecademy.com/article/setting-up-docker)
 - [What is Docker?](https://www.codecademy.com/article/what-is-docker)
@@ -30,18 +45,3 @@ These articles cover a wide range of topics from Docker and Kubernetes to cloud 
 - [GPT-5.1 Codex Tutorial: Build Apps in VS Code](https://www.codecademy.com/article/gpt-5-1-codex-tutorial-build-apps-in-vs-code)
 - [Godot Game Engine: A Beginner's Guide](https://www.codecademy.com/article/godot-game-engine-a-beginners-guide)
 - [What are Ufuncs in NumPy](https://www.codecademy.com/article/what-are-ufuncs-in-numpy)
-
-## Courses
-I've also contributed to the following courses:
-- [Learn How to Use AI for Marketing](https://www.codecademy.com/enrolled/courses/prompt-engineering-for-marketing)
-- [Learn How to Use AI for SQL](https://www.codecademy.com/enrolled/courses/learn-ai-for-sql)
-- [Learn Prompt Engineering](https://www.codecademy.com/enrolled/courses/learn-prompt-engineering)
-- [Learn Intermediate C++](https://www.codecademy.com/learn/learn-intermediate-c-plus-plus)
-- [Learn Advanced C++](https://www.codecademy.com/enrolled/courses/learn-advanced-c-plus-plus)
-- [AI-Assisted Front-End Development](https://www.codecademy.com/learn/paths/ai-assisted-front-end-development)
-
-## Videos
-I've also created the following YouTube tutorials:
-- [Beginner Python Project Tutorial: Building Control Flow](https://www.youtube.com/watch?v=IClc_qrFYVE)
-- [How to Use Flutter Widgets (A Beginner's Guide)](https://www.youtube.com/watch?v=xAZs0QDRQBQ)
-- [How to Use ChatGPT Agents | A Complete Guide with Examples](https://www.youtube.com/watch?v=khJT7_Qd_ks&t=159s)
